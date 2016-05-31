@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Which Twin Said It?</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct">Yes, this quote was said by</string>
+    <string name="incorrect">Nope, this quote is actually from</string>
+    <string name="bothcorrect">Actually, they both say this!</string>
+    <string name="ok">Try Again</string>
+
+    <string-array name="raw_quote">
+        <item>eRica, send me the POGIL!</item>
+        <item>cFear not the weapon, but the hand that wields it.</item>
+        <item>cDanny Boi!</item>
+        <item>c:(</item>
+        <item>cDaniel-san!</item>
+        <item>cYou spilled concrete mixer on your pants. Here, let me help...</item>
+        <item>eTechies wooooo!</item>
+        <item>eCool cool</item>
+        <item>eTotes</item>
+        <item>b#hashtags</item>
+        <item>eTechies wooooo!</item>
+        <item>cYeee</item>
+        <item>cCoolio</item>
+        <item>eBitch retweet this *terrible Tweet*</item>
+        <item>eAnybody got bio</item>
+        <item>bCan\'t, I\'ve got theatre.</item>
+        <item>brekt</item>
+        <item>bCheeky</item>
+        <item>bgg</item>
+        <item>e*reaction.gif*</item>
+        <item>b>>>>></item>
+        <item>eo.O</item>
+        <item>c*emoji* *emoji* *emoji* *emoji*</item>
+        <item>eBut I\'m the winner</item>
+        <item>e#screwyou \nJK \nkinda</item>
+        <item>e#sorrynotsorry</item>
+        <item>bU can do it!! I believe in u!</item>
+        <item>cI want to tweet. But I don\'t want my academic integrity ruined</item>
+        <item>eCheerleader 2.0 has been released, FYI</item>
+        <item>cOC-C</item>
+        <item>c~~ OHh SenpAiii!!! ~~</item>
+        <item>eJust sayin\'</item>
+        <item>eWho\'s excited for drama club??</item>
+        <item>ckekekekekek</item>
+        <item>eI felt like I was being too salty. Idk\nI was trying to respond edgily\nTo your nonedginess</item>
+        <item>eAwkward...</item>
+        <item>ewth</item>
+        <item>c*punches you in the arm*</item>
+        <item>cI want the job of Rave Master in the future apocalyptical wasteland world</item>
+        <item>cRURONI KENSHIN</item>
+        <item>cBall in the south gym?</item>
+    </string-array>
+</resources>
